@@ -3,7 +3,7 @@
 [![JDK][jdk-shield]][jdk-url]
 [![Spring Boot][springboot-shield]][springboot-url]
 
-<img src="[product-screenshot]" align="left">
+<img src="src/main/resources/static/images/miniature.png" align="left">
 
 # My practice from the course
 ## [**Construisez des Microservices**](https://openclassrooms.com/fr/courses/4668056-construisez-des-microservices), by Soufiane Amar
